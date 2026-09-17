@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1786700000,
-      "filename": "lineage-22.2-20260815-UNOFFICIAL-athena.zip",
-      "id": "a232515c8e16c985b804bf7f3cd81082714f9df1decb90129ea1e7a10ae66e5",
+      "datetime": 1789626686,
+      "filename": "lineage-22.2-20260917-UNOFFICIAL-athena.zip",
+      "id": "cf043271b41ba33b0d065e24242965241c79ab5c9f3979f18c47b8702c146825",
       "romtype": "unofficial",
-      "size": 1014418915,
-      "url": "https://github.com/Xmind404/distribution/releases/download/v1.0/lineage-22.2-20260815-UNOFFICIAL-athena.zip",
+      "size": 1015622153,
+      "url": "https://github.com/Xmind404/distribution/releases/download/v1.1/lineage-22.2-20260917-UNOFFICIAL-athena.zip",
       "version": "22.2"
     }
   ]
